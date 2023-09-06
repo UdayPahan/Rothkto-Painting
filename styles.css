@@ -16,5 +16,28 @@
 }
 
 .one{
+    width: 425px;
+    height:150px;
+    background-color: #ebb762;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:auto;
+    margin-right:auto;
+    overflow:hidden;
+}
+
+.two{
+    width:425px;
+    height: 125px;
+    background-color: #8f0401;
+    margin:auto;
+}
+
+.three{
+    width:91%;
+    height:28%;
+    margin:auto;
+    background-color: #b20403;
     
 }
+
